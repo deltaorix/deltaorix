@@ -1,0 +1,19 @@
+RO: Nu uitati sa faceti backup fisierelor inainte 
+
+EN: Don't forget to back up your files first
+
+
+
+EN: I highly recommend using a mods folder**
+
+RO: Va recomand sa folositi mods folder.
+
+RO: Hanoracul se instaleaza la aceasta locatie: 
+Pentru barbati: Grand Theft Auto V\mods\update\x64\dlcpacks\mpbattle\dlc1.rpf\x64\models\cdimages\mpbattle_male.rpf\mp_m_freemode_01_mp_m_battle
+
+Pentru femei: Grand Theft Auto V\mods\update\x64\dlcpacks\mpbattle\dlc1.rpf\x64\models\cdimages\mpbattle_female.rpf\mp_f_freemode_01_mp_f_battle
+
+EN: The Hoodie is installed at this location: 
+For Male: Grand Theft Auto V\mods\update\x64\dlcpacks\mpbattle\dlc1.rpf\x64\models\cdimages\mpbattle_male.rpf\mp_m_freemode_01_mp_m_battle
+
+For Female: Grand Theft Auto V\mods\update\x64\dlcpacks\mpbattle\dlc1.rpf\x64\models\cdimages\mpbattle_female.rpf\mp_f_freemode_01_mp_f_battle
